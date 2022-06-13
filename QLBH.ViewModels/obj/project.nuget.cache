@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A0fnxByGifo9ht9EE+SqlVEzKGyfPJ6YatjH7t+v4kl+l4djd1WunU9UC+1qu8qEr+ZnxeHgITdKk0JLkeoXSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus TUF\\Desktop\\Training\\QLBH\\QLBH.ViewModels\\QLBH.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus TUF\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Asus TUF\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Asus TUF\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

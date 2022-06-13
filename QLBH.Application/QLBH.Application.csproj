@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QLBH.Data\QLBH.Data.csproj" />
+    <ProjectReference Include="..\QLBH.Utilities\QLBH.Utilities.csproj" />
+    <ProjectReference Include="..\QLBH.ViewModels\QLBH.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

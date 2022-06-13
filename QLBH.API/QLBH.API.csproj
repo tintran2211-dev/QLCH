@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QLBH.Application\QLBH.Application.csproj" />
+    <ProjectReference Include="..\QLBH.Data\QLBH.Data.csproj" />
+    <ProjectReference Include="..\QLBH.Utilities\QLBH.Utilities.csproj" />
+    <ProjectReference Include="..\QLBH.ViewModels\QLBH.ViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="user-content\" />
+  </ItemGroup>
+
+</Project>

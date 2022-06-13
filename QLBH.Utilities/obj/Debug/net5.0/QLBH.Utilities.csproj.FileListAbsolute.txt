@@ -1,0 +1,12 @@
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\bin\Debug\net5.0\QLBH.Utilities.deps.json
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\bin\Debug\net5.0\QLBH.Utilities.dll
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\bin\Debug\net5.0\ref\QLBH.Utilities.dll
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\bin\Debug\net5.0\QLBH.Utilities.pdb
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\QLBH.Utilities.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\QLBH.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\QLBH.Utilities.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\QLBH.Utilities.AssemblyInfo.cs
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\QLBH.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\QLBH.Utilities.dll
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\ref\QLBH.Utilities.dll
+C:\Users\Asus TUF\Desktop\Training\QLBH\QLBH.Utilities\obj\Debug\net5.0\QLBH.Utilities.pdb
